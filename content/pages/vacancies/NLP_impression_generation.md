@@ -31,6 +31,9 @@ generating simple summaries of complex text) for patient understanding
 A method should be developed that generates an impression given radiology
 findings.  Data and some code is already available for part of the project.
 
+Aside from computational metrics, we will also do a human evaluation on the
+quality of the generated impressions (factual correctness, completeness, etc).
+
 ## Data & code
 We have multiple datasets and pre-existing models/code available for this project.
 - 250K radiology reports of CT thorax/abdomen scans
